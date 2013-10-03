@@ -107,7 +107,7 @@ void drawScene(boolean id_mode) {
   scale(90);
   noStroke();
   
- pg.beginDraw();
+  pg.beginDraw();
   pg.background(100);
   pg.noStroke();
 
